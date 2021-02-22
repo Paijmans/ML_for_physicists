@@ -1,4 +1,4 @@
-# Machine Learning for physicists
+# Machine learning for physicists course
 
 Below you find my notes from the Machine Learning for Physicists course by prof.  Marquardt from the University of Erlangen:
 
